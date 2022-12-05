@@ -13,6 +13,5 @@ This is an auto parts sales or provider Application.
 1. Download or Clone this project
 2. Import the database from the project to your MySQL SERVER in the:
 - http://localhost/phpmyadmin
-
-Note: You have to run XAMPP (Apache & MySQL) first, then you can open localhost/phpmyadmin.
+-  Note: You have to run XAMPP (Apache & MySQL) first, then you can open localhost/phpmyadmin.
 3. Open the project on Microsoft Visual Studio, then click on run.
